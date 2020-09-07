@@ -21,6 +21,8 @@ Back then, I created some extensions for Stencyl: [stencyl-extensions](https://g
 
 I collect some useful commands in [my Gists](https://gist.github.com/darioseidl).
 
+I'm a big fan of (and a small volunteer at, when I find the time): [RefugeesCode](http://www.refugeescode.at/) / [EveryoneCodes](https://everyonecodes.academy/).
+
 <!--
 **darioseidl/darioseidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
