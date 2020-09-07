@@ -19,6 +19,8 @@ Some of my projects from university are still here too:
 
 Back then, I created some extensions for Stencyl: [stencyl-extensions](https://github.com/darioseidl/stencyl-extensions).
 
+I collect some useful commands in [my Gists](https://gist.github.com/darioseidl).
+
 <!--
 **darioseidl/darioseidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
