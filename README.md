@@ -5,8 +5,6 @@ I used to work for and I still love [Stencyl](http://www.stencyl.com/).
 
 I enjoy working with Java/Kotlin (preferably Kotlin), JavaScript/TypeScript (preferably TypeScript), and Spring.
 
-When I can I contribute bug reports or fixes to Kotlin, Spring, or other libraries.
-
 We have open sourced some of our code here:
 
 - [spring-boot-kotlin-rest-api-template](https://github.com/rechnerherz/spring-boot-kotlin-rest-api-template): A state-of-the-art template for REST APIs written in Kotlin with Spring Boot.
@@ -24,6 +22,7 @@ I collect some useful commands in [my Gists](https://gist.github.com/darioseidl)
 I'm a big fan of (and a small volunteer at, when I find the time): [RefugeesCode](http://www.refugeescode.at/) / [EveryoneCodes](https://everyonecodes.academy/).
 
 You can contact me at my first name 'at' rechnerherz.at. You can also take at look at my [Github pages](https://darioseidl.github.io/).
+
 <!--
 **darioseidl/darioseidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
