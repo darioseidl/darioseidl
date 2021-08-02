@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working at/for [rechnerherz](https://www.rechnerherz.at/) and [MediPrime](https://www.mediprime.eu/).
+I'm currently working for [rechnerherz](https://www.rechnerherz.at/) and [MediPrime](https://www.mediprime.eu/).
 I used to work for and I still love [Stencyl](http://www.stencyl.com/).
 
 I enjoy working with Java/Kotlin (preferably Kotlin), JavaScript/TypeScript (preferably TypeScript), and Spring.
